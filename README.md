@@ -9,6 +9,7 @@
 - Vue Js interface
 - Virtual Ram
 - Virtual Storage
+- Virtual Coder Agent
 
 ------
 
