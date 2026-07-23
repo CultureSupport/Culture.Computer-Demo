@@ -6,9 +6,14 @@ Culture.Computer
 
  Culture.Computer 
 
-A Vue Js Computer Include 
-Virtual Storage
+- Vue Js interface
+- Virtual Ram
+- Virtual Storage
 
 ------
  
-å
+- Ai Codes Vue Snippets
+-  Ai Codes Vue Components
+
+
+
