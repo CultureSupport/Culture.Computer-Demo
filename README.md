@@ -11,6 +11,9 @@ Culture.Computer
 - Virtual Storage
 
 ------
+
+## Features 
+
  
 - Ai Codes Vue Snippets
 -  Ai Codes Vue Components
