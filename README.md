@@ -20,4 +20,8 @@
 -  Ai Codes Vue Components
 - Mobile App Interface
 
+ -----------
 
+- Mobile Computer  
+- Mobile CPU
+- Mobile Os
